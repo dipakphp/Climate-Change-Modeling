@@ -65,8 +65,8 @@ This project performs **sentiment and discourse analysis** on public comments fr
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/dipakphp/climate-change-sentiment.git
-   cd climate-change-sentiment
+   git clone https://github.com/dipakphp/Climate-Change-Modeling.git
+   cd Climate-Change-Modeling
    ```
 
 2. Install dependencies:
